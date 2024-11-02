@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqobuija.github.io/JOD/sitemap_index.txt
+Sitemap: https://eqobuija.github.io/Mce/sitemap_index.txt
+Sitemap: https://eqobuija.github.io/SNV/sitemap_index.txt
+Sitemap: https://eqobuija.github.io/kwC/sitemap_index.txt
